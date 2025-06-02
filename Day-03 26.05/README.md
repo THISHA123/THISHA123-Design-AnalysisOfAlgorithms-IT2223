@@ -1,4 +1,5 @@
 📁 *BubbleSortDemo.m*
+
 -Implements the Bubble Sort algorithm to sort an array.
 
 -Input: [64, 34, 25, 12, 22, 11, 90]
@@ -12,6 +13,7 @@ Outputs the sorted array.
 |-----------------------------------------------------------------------|
 
 📁 *InsertionSortDemo.m*
+
 -Implements the Insertion Sort algorithm for sorting an array.
 
 -Input: [5, 4, 10, 1, 6, 2]
