@@ -17,3 +17,8 @@ else
     high= mid - 1;
 end
 end
+if exist('index', 'var')
+    fprintf('Target %d found at index %d.\n', target, index);
+else
+    fprintf('Target %d not found in the array.\n', target);
+end
