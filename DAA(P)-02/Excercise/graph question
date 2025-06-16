@@ -1,0 +1,19 @@
+Graph
+1. Write the MATLAB code to import a graph. use the following source and destination data.
+
+2. Using the import data, draw the Graph
+
+3. write the MATLAB code to find and display the subgraph for the given nodes.
+
+4. identify and display the adjacent vertices each node.
+
+5.lable edges of the graph.
+
+6. label nodes of the graph.
+
+7. write the MATLAB code to color the graph(graph coloring)
+
+8. write the MATLAB code to find the shortest path from node 1 to node 5
+
+source=[1,1,2,3,4];
+destination=[2,3,4,4,5];
